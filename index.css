@@ -58,3 +58,18 @@ canvas {
 #error {
   color: red;
 }
+
+#text {
+  font-size: 13px;
+}
+
+#quirk {
+  font-size: 13px;
+  margin-top: 20px;
+}
+
+#counter {
+  color: hsl(355, 100%, 45%);
+  font-weight: bold;
+  font-style: italic;
+}
